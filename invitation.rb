@@ -18,4 +18,4 @@ puts "You are invited to the #{party_name}"
 puts "on #{date} at #{time}. Please RSVP no later than the day before."
 
 puts "Sincerely,"
-#{host_name}
+"#{host_name}"
